@@ -29,7 +29,7 @@ This problem is solved using a graph algorithm, and yet our solution contains no
 
 This algorithm uses a stepping criterion that is similar to the one used in a popular optimization algorithm called “steepest descent.” Steepest descent is used to find a function’s local minimum value in multi-dimensional space. Machine learning algorithmns use such optimization algorithms as black-box solvers in classification problems.
 
-The Assignment, Part 2: Coding
+Part 2: Coding
 
 Problem Specification
 
